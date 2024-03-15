@@ -10,12 +10,6 @@ body {
     background: #fff;
     height: auto;
 }
-.sprite{
-    position: absolute;
-        width: 20%;
-        height: 50px;
-        left: 35%;
-    }
 h1 {
     font-weight: 400;
     font-size: 2.5rem;
