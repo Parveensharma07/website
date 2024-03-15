@@ -10,7 +10,12 @@ body {
     background: #fff;
     height: auto;
 }
-
+.sprite{
+    position: absolute;
+        width: 20%;
+        height: 50px;
+        left: 35%;
+    }
 h1 {
     font-weight: 400;
     font-size: 2.5rem;
@@ -65,7 +70,10 @@ main {
     flex: 0 1 60vw;
     margin: 0;
 }
-
+picture{
+    height: 40%;
+    width: 30%;
+}
 .btn {
     
     
@@ -86,7 +94,7 @@ main {
 #header {
     padding: 1.5rem;
     text-align: center;
-    background: #333;
+    background:#333;
     color: #fff;
 }
 
